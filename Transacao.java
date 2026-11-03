@@ -1,0 +1,7 @@
+/**
+ * Transacao
+ */
+public class Transacao {
+
+    
+}
