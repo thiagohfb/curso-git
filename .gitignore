@@ -1,0 +1,14 @@
+# Arquivos de compilacao
+*.class
+
+# Diretorios de build
+target/
+out/
+
+# Arquivos de log
+*.log
+
+# Configuracoes locais
+.vscode/
+
+.env
