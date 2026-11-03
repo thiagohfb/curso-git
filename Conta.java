@@ -6,7 +6,7 @@ public class Conta {
     double saldo;
 
     public static void main(String[] args) {
-        System.out.println("Iniciando Classe");
+        System.out.println("Iniciando Classe.");
     }
 
     public void sacar(double valor){
