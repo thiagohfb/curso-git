@@ -9,9 +9,14 @@ public class Conta {
         System.out.println("Iniciando Classe.");
     }
 
-    public void sacar(double valor){
+    public void sacar(double valor) {
         this.saldo = this.saldo - valor;
         System.out.println("testes");
-        return ;
+        return;
+    }
+
+    public double consultarSaldo() {
+        System.out.println("Consultando saldo");
+        return this.saldo;
     }
 }
