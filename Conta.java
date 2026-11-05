@@ -16,6 +16,7 @@ public class Conta {
     }
 
     public double consultarSaldo() {
+        System.out.println("Consultando saldo");
         return this.saldo;
     }
 }
